@@ -1,5 +1,6 @@
 ## Hi there 👋
 My current goal is becoming a future cloud engineer! ☺☺☺☺☺☺
+ - [x] README.md
 <!--
 **SonnyR2/SonnyR2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
