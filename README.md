@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hello working on becoming a future cloud engineer! ☺☺☺☺☺☺
 <!--
 **SonnyR2/SonnyR2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
